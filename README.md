@@ -9,7 +9,7 @@ This TO-DO-LIST Website is a user-friendly application designed to help you effi
 
 * **Add Multiple Tasks:** Easily add multiple tasks to your list with a simple input form.
  
-* **Delete Tasks:** Remove individual tasks or clear all tasks at once.
+* **Delete Tasks:** Remove individual tasks or Delete all tasks at once.
   
 * **Mark Tasks as Completed:** Check off tasks when they are done.
   
@@ -29,10 +29,8 @@ This TO-DO-LIST Website is a user-friendly application designed to help you effi
 **2.Add Tasks:** Use the input field to add new tasks.
 
 **3.Manage Tasks:**
-
-* **Edit Tasks:** Click on a task to edit its content.
   
-* **Delete Tasks:** Click the delete button next to a task to remove it, or use the "Clear All" button to delete all tasks.
+* **Delete Tasks:** Click the delete button next to a task to remove it, or use the "Delete All" button to delete all tasks.
   
 * **Mark as Completed:** Click the checkbox next to a task to mark it as completed.
   
