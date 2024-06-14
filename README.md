@@ -1,10 +1,11 @@
 # TO-DO-LIST Website
 
-## Overview
+## 🌟Overview
 
 This TO-DO-LIST Website is a user-friendly application designed to help you efficiently manage your tasks. Developed using HTML, CSS, and JavaScript, it allows you to organize your daily activities with ease. The interface is intuitive, making task management straightforward for users of all levels.The application ensures you stay organized and productive, no matter how busy your schedule is.
 
-## Key Features
+
+## ✨Key Features
 
 * **Add Multiple Tasks:** Easily add multiple tasks to your list with a simple input form.
  
@@ -18,10 +19,10 @@ This TO-DO-LIST Website is a user-friendly application designed to help you effi
   
 * **Data Persistence:** Tasks are stored in the local storage, keeping your list intact even after refreshing the page.
 
- ## Live Demo
- <a href="https://to-do-list-bynikhilverma.netlify.app/" title="TO-DO-LIST WEBSITE">wallpaperflare</a>
+ ## 🔗Live Demo
+ <a href="https://to-do-list-bynikhilverma.netlify.app/" title="TO-DO-LIST WEBSITE">TO-DO-LIST WEBSITE</a>
 
-## How to Use
+## 🚀How to Use
 
 **1.** Open the **index.html** file in your preferred browser.
 
@@ -37,7 +38,7 @@ This TO-DO-LIST Website is a user-friendly application designed to help you effi
   
 **4.Filter Tasks:** Use the filter options to view all tasks, only completed tasks, or only incomplete tasks.
 
-## Technologies Used
+## 💻Technologies Used
 
 * **HTML:** For structuring the website.
   
@@ -50,11 +51,11 @@ This TO-DO-LIST Website is a user-friendly application designed to help you effi
 * **wallpaperflare:** For providing beautiful background images.
 
   
-## Usage
+## 🎗️Usage
 
 This TO-DO-LIST Website is perfect for anyone looking to efficiently manage their daily tasks. Whether you are a student keeping track of assignments, a professional managing work projects, or someone organizing personal chores, this tool will help you stay organized and productive.
 
-## Acknowledgements
+## 🙏Acknowledgements
 
 1.<a href="https://www.wallpaperflare.com/" title="wallpaperflare">wallpaperflare</a> : For providing the stunning background images that enhance the visual appeal of the website.
 
